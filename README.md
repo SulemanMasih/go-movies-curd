@@ -28,6 +28,7 @@ go get -u github.com/gorilla/mux
 ```
 Run the application:
 ``` sh
+go build
 go run main.go
 ```
 The server will start on port 8000
